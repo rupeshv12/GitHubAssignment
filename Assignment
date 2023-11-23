@@ -1,0 +1,42 @@
+Create a GitHub Account: If you don't already have a GitHub account, sign up for a free account at GitHub.
+
+Repository Creation:
+
+Create a new public repository on GitHub. Name it "GitHubAssignment."
+Cloning the Repository:
+
+Clone the "GitHubAssignment" repository to your local computer using the provided URL.
+Making Changes:
+
+Inside the cloned repository, create a new text file named "my_changes.txt."
+Add any text content to "my_changes.txt."
+Committing Changes:
+
+Stage your changes.
+Commit the changes with a meaningful commit message.
+Pushing Changes:
+
+Push your committed changes to the GitHub repository.
+Branching:
+
+Create a new branch in the repository. Name it "feature-branch."
+Pull Requests:
+
+Switch to the "feature-branch."
+Create a new text file in the branch named "new_feature.txt" and add some content.
+Commit your changes on the "feature-branch."
+Push your changes to the "feature-branch."
+Create a pull request to merge the "feature-branch" into the main branch. Provide a description for the pull request.
+Collaboration (Optional):
+
+Invite a friend or classmate to collaborate on your "GitHubAssignment" repository. They can make changes to the repository, commit, and create pull requests.
+Evaluation Criteria: Your assignment will be evaluated based on the following criteria:
+
+Successful completion of each step of the assignment.
+Clarity and completeness of commit messages.
+Proper branching and pull request creation.
+Following best practices for collaboration (if collaborating with others).
+Following the GitHub commands and concepts as explained in the tutorial.
+Submission: Once you have completed the assignment, share the URL of your "GitHubAssignment" repository with other students and conduct peer review.
+
+Note: This assignment is designed to test your practical understanding of GitHub fundamentals. Be sure to complete it independently to the best of your ability.
