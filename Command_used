@@ -1,0 +1,26 @@
+$ history
+    1  ls
+    2  git clone <my-clone repo>
+    3  touch my_changes.txt
+    4  ls -trlh
+    5  vi my_changes.txt
+    6  git status
+    7  git add my_changes.txt
+    8  git status
+    9  git commit -m "my_changes.txt first version"
+   10  git push origin main
+   11  git log
+   12  git branch feature-branch
+   13  git status
+   14  git log
+   15  git banch
+   16  git branch
+   17  git switch feature-branch
+   18  touch new_feature.txt
+   19  vi new_feature.txt
+   20  git status
+   21  git add new_feature.txt
+   22  git status
+   23  git commit -m "new_feature.txt feature version"
+   24  git push origin feature-branch
+   25  history
